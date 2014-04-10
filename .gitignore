@@ -2,3 +2,4 @@ flask
 *.pyc
 app.db
 tmp/
+test.db
